@@ -3,7 +3,7 @@
 :tags: 簡介
 :summary: 公司簡介
 :lang: zh
-:order: 2
+:order: 3
 :source: http://www.wdpm.com.tw/company.htm
 :og_image: http://www.wdpm.com.tw/images/wdgold2.jpg
 

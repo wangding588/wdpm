@@ -3,7 +3,7 @@
 :tags: product, 產品
 :summary: 公司產品
 :lang: zh
-:order: 3
+:order: 4
 :source: http://www.wdpm.com.tw/images/wb1copy.gif
 :og_image: http://www.wdpm.com.tw/product.htm
 

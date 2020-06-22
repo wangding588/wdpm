@@ -3,7 +3,7 @@
 :tags: 聯絡
 :summary: 聯絡我們
 :lang: zh
-:order: 4
+:order: 5
 :source: http://www.wdpm.com.tw/
 :og_image: http://www.wdpm.com.tw/images/wdbanner.gif
 
