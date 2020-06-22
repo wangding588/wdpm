@@ -140,6 +140,9 @@ References
 
 .. [3] `王鼎貴金屬 <http://www.wdpm.com.tw/>`_
 
+.. [4] `Gold Price <https://goldprice.org/>`_
+
+       `KITCO <https://www.kitco.com/>`_
 
 .. _Pelican: http://blog.getpelican.com/
 .. _Ubuntu 20.04: http://releases.ubuntu.com/20.04/
