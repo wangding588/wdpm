@@ -140,9 +140,9 @@ References
 
 .. [3] `王鼎貴金屬 <http://www.wdpm.com.tw/>`_
 
-.. [4] `Gold Price <https://goldprice.org/>`_
-
-       `KITCO <https://www.kitco.com/>`_
+.. [4] | `Gold Price <https://goldprice.org/>`_
+       | `KITCO <https://www.kitco.com/>`_
+       | `Embed a gold price chart on your website | BullionVault <https://www.bullionvault.com/help/custom_gold_price_charts.html>`_
 
 .. _Pelican: http://blog.getpelican.com/
 .. _Ubuntu 20.04: http://releases.ubuntu.com/20.04/
