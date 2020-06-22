@@ -1,0 +1,15 @@
+{
+  "name": "王鼎貴金屬",
+  "short_name": "王鼎",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "theme_color": "#673ab6",
+  "background_color": "#111111",
+  "icons": [
+    {
+      "src": "/images/wd130.gif",
+      "sizes": "538x538",
+      "type": "image/png"
+    }
+  ]
+}

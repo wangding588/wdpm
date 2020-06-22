@@ -1,0 +1,24 @@
+.main-content {
+}
+
+// 針對桌機（寬螢幕）做特別處理
+@media (min-width: 768px) {
+}
+
+// 針對手機（窄螢幕）做特別處理
+@media (max-width: 576px) {
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
