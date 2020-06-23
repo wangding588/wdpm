@@ -1,4 +1,4 @@
-:title: 簡訊
+:title: 財訊
 :slug: news
 :tags: 財經簡訊
 :summary: 王鼎財經簡訊
