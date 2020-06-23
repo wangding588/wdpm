@@ -40,7 +40,7 @@
   var chartBV = new BullionVaultChart(options, 'goldpricechartdiv');
   </script>
 
-  <div id="goldpricechartdiv" class="mx-auto" style="height: 400px;"></div>
+  <div id="goldpricechartdiv" class="mx-auto" style="height: 400px; width: 660px; "></div>
 
 |
 |
