@@ -13,10 +13,9 @@
 國外貴金屬價格走勢表
 ++++++++++++++++++++
 
-BullionVault 圖表
+**BullionVault價格表**
 
-提供三種貴金屬：黃金、白銀、鉑金。
-另外可以選擇時間以及貨幣。
+提供三種貴金屬：黃金、白銀、鉑金。另外可以選擇時間以及貨幣。
 
 .. raw:: html
 
@@ -43,9 +42,10 @@ BullionVault 圖表
 
   <div id="goldpricechartdiv" class="mx-auto" style="height: 400px; width: 660px; "></div>
 
-Gold Price 圖表
+|
+|
 
-黃金
+**Gold Price 圖表 - 黃金**
 
 .. raw:: html
 
@@ -57,7 +57,10 @@ Gold Price 圖表
   <script type="text/javascript" src="https://goldprice.org/js/gold-price.js"></script></div>
   <!-- End Gold Price Script - GOLDPRICE.ORG -->
 
-白銀
+|
+|
+
+**Gold Price 圖表 - 白銀**
 
 .. raw:: html
 
@@ -68,6 +71,39 @@ Gold Price 圖表
   <div id="silver-price" data-silver_price="USD-o-1d"></div>
   <script type="text/javascript" src="https://silverprice.org/js/silver-price.js"></script></div>
   <!-- End Silver Price Script - SILVERPRICE.ORG -->
+
+|
+|
+
+**KITCO 24小時黃金現貨價格**
+
+.. raw:: html
+
+  <A HREF="http://www.kitco.com/connecting.html">
+  <IMG SRC="http://www.kitconet.com/images/live/s_gold.gif" BORDER="0" ALT="[Most Recent Quotes from www.kitco.com]">
+  </A>
+
+|
+|
+
+**KITCO 24小時白銀現貨價格**
+
+.. raw:: html
+
+  <A HREF="http://www.kitco.com/connecting.html">
+  <IMG SRC="http://www.kitconet.com/images/live/s_silv.gif" BORDER="0" ALT="[Most Recent Quotes from www.kitco.com]">
+  </A>
+
+|
+|
+
+**KITCO 24小時鉑金現貨價格**
+
+.. raw:: html
+
+  <A HREF="http://www.kitco.com/connecting.html">
+  <IMG SRC="http://www.kitconet.com/images/live/s_plat.gif" BORDER="0" ALT="[Most Recent Quotes from www.kitco.com]">
+  </A>
 
 ----
 
