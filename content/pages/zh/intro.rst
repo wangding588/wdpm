@@ -23,3 +23,23 @@
 於2018年1月起與『好市多股份有限公司』合作銷售PAMP全系列黃金產品與王鼎自製一兩與五兩黃金條塊。
 
 於2019年8月承接『 臺南市政府社會局』之『臺南市108年度重陽節百歲人瑞禮品金鎖片採購案』。
+
+.. raw:: html
+
+  <span id="idreport"></span>
+
+----
+
+高雄市銀樓珠寶公會白銀成色鑑定報告(2010/ 04/ 19)
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. image:: {static}/images/silver5.jpg
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
+|
+
+.. image:: {static}/images/silver8.JPG
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
