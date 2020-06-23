@@ -102,23 +102,132 @@ Initial jobless claims fell 10k to 206k in the 7 days ending July 20, continuing
 
 ----
 
-紐約道瓊指數
-++++++++++++
+美股及相關市場指數
+++++++++++++++++++
 
-26,119.98 -128.99 (-0.47%)
+.. raw:: html
 
-
-那斯達克指數
-++++++++++++
-
-9,910.54 -82.96 (-1.00%)
+  <!-- TradingView Widget BEGIN -->
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <div class="tradingview-widget-copyright"><a href="https://tw.tradingview.com/markets/indices/" rel="noopener" target="_blank"><span class="blue-text">指數行情</span></a>由TradingView提供</div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+    {
+    "title": "指數",
+    "width": 770,
+    "height": 450,
+    "locale": "zh_TW",
+    "symbolsGroups": [
+      {
+        "name": "美國和加拿大",
+        "symbols": [
+          {
+            "name": "FOREXCOM:SPXUSD",
+            "displayName": "標準普爾500"
+          },
+          {
+            "name": "FOREXCOM:NSXUSD",
+            "displayName": "納斯達克100指數"
+          },
+          {
+            "name": "CME_MINI:ES1!",
+            "displayName": "E-迷你 標普指數期貨"
+          },
+          {
+            "name": "INDEX:DXY",
+            "displayName": "美元指數"
+          },
+          {
+            "name": "FOREXCOM:DJI",
+            "displayName": "道瓊斯 30"
+          }
+        ]
+      },
+      {
+        "name": "歐洲",
+        "symbols": [
+          {
+            "name": "INDEX:SX5E",
+            "displayName": "歐元藍籌50"
+          },
+          {
+            "name": "FOREXCOM:UKXGBP",
+            "displayName": "富時100"
+          },
+          {
+            "name": "INDEX:DEU30",
+            "displayName": "德國DAX指數"
+          },
+          {
+            "name": "INDEX:CAC40",
+            "displayName": "法國 CAC 40 指數"
+          },
+          {
+            "name": "INDEX:SMI"
+          }
+        ]
+      },
+      {
+        "name": "亞太",
+        "symbols": [
+          {
+            "name": "INDEX:NKY",
+            "displayName": "日經225"
+          },
+          {
+            "name": "INDEX:HSI",
+            "displayName": "恆生"
+          },
+          {
+            "name": "BSE:SENSEX",
+            "displayName": "印度孟買指數"
+          },
+          {
+            "name": "BSE:BSE500"
+          },
+          {
+            "name": "INDEX:KSIC",
+            "displayName": "韓國Kospi綜合指數"
+          }
+        ]
+      }
+    ],
+    "colorTheme": "light"
+  }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
 
 ----
 
-當日外匯指數(美元--外幣)
-++++++++++++++++++++++++
+當日外匯指數
+++++++++++++
 
-台幣 :29.6 日元 :106.8 歐元 :1.12
+.. raw:: html
+
+  <!-- TradingView Widget BEGIN -->
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <div class="tradingview-widget-copyright"><a href="https://tw.tradingview.com/markets/currencies/forex-cross-rates/" rel="noopener" target="_blank"><span class="blue-text">外匯匯率</span></a>由TradingView提供</div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-forex-cross-rates.js" async>
+    {
+    "width": "100%",
+    "height": "100%",
+    "currencies": [
+      "EUR",
+      "USD",
+      "JPY",
+      "GBP",
+      "CNY",
+      "TWD"
+    ],
+    "isTransparent": false,
+    "colorTheme": "light",
+    "locale": "zh_TW"
+  }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
 
 ----
 

@@ -154,6 +154,8 @@ References
        | `Embed a gold price chart on your website | BullionVault <https://www.bullionvault.com/help/custom_gold_price_charts.html>`_
        | `Gold Price Charts <https://goldprice.org/gold-price-charts.html>`_
        | `Latest gold, silver, platinum, palladium and rhodium prices. <https://www.kitco.com/price/>`_
+       | `Free Stock Widgets — Financial Web Components — TradingView <https://www.tradingview.com/widget/>`_
+       | `免費股票小工具 - 金融Web組件 — TradingView <https://tw.tradingview.com/widget/>`_
 
 .. _Pelican: http://blog.getpelican.com/
 .. _Ubuntu 20.04: http://releases.ubuntu.com/20.04/
