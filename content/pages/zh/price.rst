@@ -105,6 +105,3 @@
   <IMG SRC="http://www.kitconet.com/images/live/s_plat.gif" BORDER="0" ALT="[Most Recent Quotes from www.kitco.com]">
   </A>
 
-----
-
-此處放置連結（未完成）
