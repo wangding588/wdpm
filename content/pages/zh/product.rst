@@ -8,6 +8,10 @@
 :og_image: http://www.wdpm.com.tw/product.htm
 
 
+.. image:: {static}/images/wb1copy.gif
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
 簡介
 ++++
 
@@ -55,6 +59,10 @@
 國際通行金條必要條件
 ++++++++++++++++++++
 
+.. image:: {static}/images/W2copy.gif
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
 依照國際之規定，世界金條必須具備以下條件
 
 １．國際公認煉金廠標誌
@@ -79,6 +87,15 @@
 
 圖示說明如下：
 
+.. image:: {static}/images/W11copy3.gif
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
+|
+
+.. image:: {static}/images/W10copy.gif
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
 
 １．瑞士ARGOR HERAEUS SA　煉金廠標誌
 
@@ -104,6 +121,10 @@
 瑞士聯合銀行貨源充足
 ++++++++++++++++++++
 
+.. image:: {static}/images/w5acopy.gif
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
 王鼎貴金屬股份有限公司與瑞士第一大銀行瑞士聯合銀行（Union Bank of Switzerland）簽署長期正式合約，供應市場需求。
 
 瑞士聯合銀行特色：
@@ -123,4 +144,8 @@
     (2)精緻美觀的多樣化黃金產品。
 
     (3)產品品質優良，成色純正。
+
+.. image:: {static}/images/W15copy.gif
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
 
