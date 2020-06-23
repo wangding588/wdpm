@@ -9,20 +9,17 @@
 
 .. raw:: html
 
-  <!--
-
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-6">
 
-    //此處插入Google Form
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeckQYw-EWbTGbnVSWpfMxOcBZCvgxVT8IzyaIyLRdwQYCKdA/viewform?embedded=true" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
 
     </div>
     <div class="col-md-6">
 
   <div class="contact-address-font-size">
 
-  -->
 
 |
 | 王鼎貴金屬股份有限公司
