@@ -140,9 +140,19 @@ References
 
 .. [3] `王鼎貴金屬 <http://www.wdpm.com.tw/>`_
 
-.. [4] | `Gold Price <https://goldprice.org/>`_
+.. [4] | `embed gold price chart - Google search <https://www.google.com/search?q=embed+gold+price+chart>`_
+       | `embed gold price chart - DuckDuckGo search <https://duckduckgo.com/?q=embed+gold+price+chart>`_
+       | `embed gold price chart - Ecosia search <https://www.ecosia.org/search?q=embed+gold+price+chart>`_
+       | `embed gold price chart - Qwant search <https://www.qwant.com/?q=embed+gold+price+chart>`_
+       | `embed gold price chart - Bing search <https://www.bing.com/search?q=embed+gold+price+chart>`_
+       | `embed gold price chart - Yahoo search <https://search.yahoo.com/search?p=embed+gold+price+chart>`_
+       | `embed gold price chart - Baidu search <https://www.baidu.com/s?wd=embed+gold+price+chart>`_
+       | `embed gold price chart - Yandex search <https://www.yandex.com/search/?text=embed+gold+price+chart>`_
+
+.. [5] | `Gold Price <https://goldprice.org/>`_
        | `KITCO <https://www.kitco.com/>`_
        | `Embed a gold price chart on your website | BullionVault <https://www.bullionvault.com/help/custom_gold_price_charts.html>`_
+       | `Gold Price Charts <https://goldprice.org/gold-price-charts.html>`_
 
 .. _Pelican: http://blog.getpelican.com/
 .. _Ubuntu 20.04: http://releases.ubuntu.com/20.04/
