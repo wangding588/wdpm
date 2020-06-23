@@ -94,15 +94,11 @@ Initial jobless claims fell 10k to 206k in the 7 days ending July 20, continuing
 紐約黃金市場資料 (美元/盎司)
 ++++++++++++++++++++++++++++
 
-最 高 1750.00 / 1751.00
+.. raw:: html
 
-最 低 1733.00 / 1734.00
-
-開 市 1735.00 / 1736.00
-
-收 市 1743.00 / 1744.00
-
-今 日 1723.00 / 1724.00
+  <A HREF="http://www.kitco.com/connecting.html">
+  <IMG SRC="http://www.kitconet.com/images/quotes_4b2.gif" BORDER="0" ALT="[Most Recent Quotes from www.kitco.com]">
+  </A>
 
 ----
 
@@ -126,14 +122,14 @@ Initial jobless claims fell 10k to 206k in the 7 days ending July 20, continuing
 
 ----
 
-當日其他貴金屬(美元/盎司)
-+++++++++++++++++++++++++
+當日貴金屬(美元/盎司)
++++++++++++++++++++++
 
-白 金 : 800.00 / 806.00
+.. raw:: html 
 
-鈀 金 : 1820.00 /1826.00
-
-白 銀 : 17.7 / 17.76
+  <A HREF="http://www.kitco.com/connecting.html">
+  <IMG SRC="http://www.kitconet.com/images/quotes_7a.gif" BORDER="0" ALT="[Most Recent Quotes from www.kitco.com]">
+  </A>
 
 ----
 
