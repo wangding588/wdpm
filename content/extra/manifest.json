@@ -7,9 +7,9 @@
   "background_color": "#111111",
   "icons": [
     {
-      "src": "/images/wd130.gif",
-      "sizes": "538x538",
-      "type": "image/png"
+      "src": "/images/mobileicon.jpg",
+      "sizes": "215x215",
+      "type": "image/jpeg"
     }
   ]
 }
