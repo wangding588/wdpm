@@ -44,9 +44,9 @@ ED&F Man Capital Markets分析師Edward Meir表示:“各國的刺激浪潮不�
 
 GOLD PRICES fell $10 per ounce from a new 1-month high Monday in London, easing
 back as inflation expectations continues to outpace the rate of interest offered
- by Western government debt, and world stock markets looked torn between record
- stimulus and growing fears of a second wave of coronavirus infections worldwide,
- writes Atsuko Whitehouse at BullionVault.
+by Western government debt, and world stock markets looked torn between record
+stimulus and growing fears of a second wave of coronavirus infections worldwide,
+writes Atsuko Whitehouse at BullionVault.
  
 Geopolitical uncertainty also increased after China's dictatorship in Beijing 
 released details of the 'national security law' it plans to impose on the 
