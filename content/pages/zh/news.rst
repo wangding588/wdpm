@@ -42,30 +42,24 @@ ED&F Man Capital Markets分析師Edward Meir表示:“各國的刺激浪潮不�
 
 <Market Commentary>
 
-Gold traded between $1420-25 through Asian hours.
-The onshore SGE premium remained steady at around $11-12.
-The metal spiked to a session high $1433 as the EUR initially jumped up on the ECB comments.
-As the EUR came off and the US dollar found support gold was sold heavily during NY hours.
-The yellow metal printed the low of $1411 before closing at $1414.
-Silver lost almost 20c to finish up at $16.39.
-PGMs finished in the red, with platinum and palladium closing at $870 and $1531 respectively.
-The Philadelphia gold and silver index fell 2.27%.
-Technical Commentary
-
-The ECB kept interest rates on but offered very dovish statement.
-The Dow lost 125.99 points to 27,140.98, the S&P 500 fell 15.89 points to 3,003.67, while the Nasdaq dropped 82.96 points to 8,238.54.
-Energy (-1.16%) and tech (-0.79%) led a broad decline in the markets.
-The VIX gauge added 5.6% to 13.
-ECB commentary sparked volatility in EUR, which swung between 1.1112 1.1179.
-The US dollar index firmed 0.12% to 97.80 and USD/JPY traded up to 108.71.
-US treasury yields were lower, the 2 year yield shed 5.2 bps to 1.866% while the 10 year yield eased 3.8 bps to 2.081%.
-European shares were lower, the EuroSTOXX slipped 0.56%, the German DAX sold off 1.28%, while the UK FTSE lost 0.17%.
-Oil prices were lower, Brent fell 0.5% to $63.07 while WTI gave up 0.4% to $55.87.
-Base metals were mostly lower, with nickel (-3.3%) leading the losses.
-In US economic data, durable goods orders rose 2.% in June.
-Core capex orders rose 1.9% in June, the biggest monthly gain in almost 18 months.
-Advance trade in goods in June showed the trade deficit narrowing 1.2% to $74.2 billion.
-Initial jobless claims fell 10k to 206k in the 7 days ending July 20, continuing claims fell 13k to 1.68M.
+GOLD PRICES fell $10 per ounce from a new 1-month high Monday in London, easing
+back as inflation expectations continues to outpace the rate of interest offered
+ by Western government debt, and world stock markets looked torn between record
+ stimulus and growing fears of a second wave of coronavirus infections worldwide,
+ writes Atsuko Whitehouse at BullionVault.
+ 
+Geopolitical uncertainty also increased after China's dictatorship in Beijing 
+released details of the 'national security law' it plans to impose on the 
+formerly 'autonomous' region of Hong Kong.
+ 
+Dollar prices for gold bullion settled in London jumped to $1758 per ounce in 
+Asian trade overnight, the highest since 18 May.The Dollar itself – as measured
+on the US currency's index of value versus its major peers – meantime retreated
+following four consecutive days of gains."A major part of the move higher in 
+gold over the past two trading days has been US real yields heading increasing
+ly negative," reckons John Reade, chief market strategist at the mining 
+industry's World Gold Council, pointing to the inflation-adjusted rate of 
+interest offered to new buyers of 10-year Treasury bonds.
 
 ----
 
