@@ -71,20 +71,6 @@ See `GitHub Pages Deployment - Travis CI`_.
 
 First save your `personal access token`_ in `repository settings`_.
 
-For User Pages, the following is sample config:
-
-.. code-block:: yaml
-
-  deploy:
-    provider: pages
-    repo: USERNAME/USERNAME.github.io
-    target_branch: master
-    skip_cleanup: true
-    github_token: $GITHUB_TOKEN
-    local_dir: output
-    on:
-      branch: master
-
 For Project Pages, the following is sample config:
 
 .. code-block:: yaml
@@ -110,23 +96,6 @@ Daily Development
     # start dev server
     $ make
     # open your browser and preview the website at http://localhost:8000/
-
-
-Note for `Google Adsense`_
-++++++++++++++++++++++++++
-
-Edit the following three files to include your code:
-
-- `theme/templates/layout/includes/adsense.html <theme/templates/layout/includes/adsense.html>`_
-- `theme/templates/layout/includes/adsense_page_level.html <theme/templates/layout/includes/adsense_page_level.html>`_
-- `plugins/adsense/adsense.py <plugins/adsense/adsense.py>`_
-
-Add ``:adsense: yes`` to the articles that you want to put ads in. See
-`content/articles/2016/02/16/c-hello-world%en.rst <content/articles/2016/02/16/c-hello-world%en.rst>`_
-for example.
-Or use directive to include ads in articles. See raw file of
-`content/articles/2016/02/16/c-hello-world%zh.rst <content/articles/2016/02/16/c-hello-world%zh.rst>`_
-for example.
 
 
 References
