@@ -23,7 +23,7 @@ First-time Setup
    .. code-block:: bash
 
      $ sudo apt-get install git
-     $ sudo apt-get install python-pip
+     $ sudo apt-get install python3-pip
 
 2. Install language packages to add locale (English, Traditional Chinese in this
    example):
@@ -40,27 +40,27 @@ First-time Setup
      $ cd
      $ mkdir dev
      $ cd ~/dev/
-     $ git clone https://github.com/siongui/pelican-template.git YOUR_REPO
+     $ git clone https://github.com/wangding588/wdpm.git wdpm
 
 4. Install Python tools:
 
    .. code-block:: bash
 
-     $ cd ~/dev/YOUR_REPO/
+     $ cd ~/dev/wdpm/
      $ sudo pip install -r requirements.txt
 
 5. Install Pelican `i18n_subsites`_ plugin:
 
    .. code-block:: bash
 
-     $ cd ~/dev/YOUR_REPO/
+     $ cd ~/dev/wdpm/
      $ make download
 
 6. Generate CSS file:
 
    .. code-block:: bash
 
-     $ cd ~/dev/YOUR_REPO/
+     $ cd ~/dev/wdpm/
      $ make scss
 
 
@@ -104,11 +104,11 @@ Daily Development
 .. code-block:: bash
 
     # start edit and develope
-    $ cd ~/dev/YOUR_REPO/
+    $ cd ~/dev/wdpm/
     # If something changes, re-generate the website:
     $ make html
     # start dev server
-    $ make serve
+    $ make
     # open your browser and preview the website at http://localhost:8000/
 
 
