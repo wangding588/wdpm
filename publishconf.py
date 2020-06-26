@@ -12,7 +12,8 @@ from pelicanconf import *
 
 # no trailing /
 #SITEURL = 'https://wangding588.github.io/wdpm'
-SITEURL = 'https://www.wdpm.com.tw'
+#SITEURL = 'https://www.wdpm.com.tw'
+SITEURL = ''
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None
