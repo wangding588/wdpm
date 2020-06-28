@@ -60,7 +60,7 @@
 |
 |
 
-**Gold Price 圖表 - 白銀**
+**Silver Price 圖表 - 白銀**
 
 .. raw:: html
 

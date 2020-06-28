@@ -121,6 +121,21 @@
 
 ----
 
+王鼎平裝五兩條
+++++++++++++++
+
+.. image:: {static}/images/bullion.jpg
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
+|
+
+.. image:: {static}/images/bullion2.jpg
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
+----
+
 瑞士PAMP貨源充足
 ++++++++++++++++
 
