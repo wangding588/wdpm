@@ -5,7 +5,7 @@
 :lang: zh
 :order: 6
 :source: http://www.wdpm.com.tw/
-:og_image: /images/carousel/rr-carousel-contact.jpg
+:og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-contact.jpg
 
 .. raw:: html
 

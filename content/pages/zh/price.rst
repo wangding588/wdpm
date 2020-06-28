@@ -5,7 +5,7 @@
 :lang: zh
 :order: 1
 :source: http://www.wdpm.com.tw/right.htm
-:og_image: /images/carousel/rr-carousel-price.jpg
+:og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-price.jpg
 
 
 ----
