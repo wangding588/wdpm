@@ -5,7 +5,7 @@
 :lang: zh
 :order: 3
 :source: http://www.wdpm.com.tw/company.htm
-:og_image: http://www.wdpm.com.tw/images/wdgold2.jpg
+:og_image: /images/carousel/rr-carousel-intro.jpg
 
 
 公司創立於1988年，主要與瑞士煉金廠 合作並委託其他世界大銀行與知名煉金廠Johnson Matthey,Metalor 進口倫敦市場認可的純金金條。

@@ -5,7 +5,7 @@
 :lang: zh
 :order: 2
 :source: http://www.wdpm.com.tw/economic.htm
-:og_image: http://www.wdpm.com.tw/images/title05.gif
+:og_image: /images/carousel/rr-carousel-news.jpg
 
 109年6月24日更新
 

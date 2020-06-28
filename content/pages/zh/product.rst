@@ -5,7 +5,7 @@
 :lang: zh
 :order: 4
 :source: http://www.wdpm.com.tw/images/wb1copy.gif
-:og_image: http://www.wdpm.com.tw/product.htm
+:og_image: /images/carousel/rr-carousel-product.jpg
 
 
 .. image:: {static}/images/wb1copy.gif
