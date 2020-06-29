@@ -142,7 +142,7 @@
 精裝
 ====
 
-.. image:: {static}/images/silver/silver-a.jpg
+.. image:: {static}/images/silver/r-silver-a.jpg
    :alt: 公司產品
    :class: img-fluid mx-auto d-block
 
@@ -151,7 +151,7 @@
 平裝
 ====
 
-.. image:: {static}/images/silver/silver-b.jpg
+.. image:: {static}/images/silver/r-silver-b.jpg
    :alt: 公司產品
    :class: img-fluid mx-auto d-block
 
@@ -160,7 +160,7 @@
 10盎司
 ======
 
-.. image:: {static}/images/silver/silver-c.jpg
+.. image:: {static}/images/silver/r-silver-c.jpg
    :alt: 公司產品
    :class: img-fluid mx-auto d-block
 
