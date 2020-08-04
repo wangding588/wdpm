@@ -46,24 +46,24 @@ RJO Futures高級市場策略師Bob Haberkorn表示：“回調只是技術性�
 
 <Market Commentary>
 
-GOLD PRICES fell $10 per ounce from a new 1-month high Monday in London, easing
-back as inflation expectations continues to outpace the rate of interest offered
-by Western government debt, and world stock markets looked torn between record
-stimulus and growing fears of a second wave of coronavirus infections worldwide,
-writes Atsuko Whitehouse at BullionVault.
+GOLD PRICES surged to a fresh all-time high early Monday morning, as 
+rising Covid-19 cases and simmering US-China tensions have dented hopes 
+for a swift economic recovery, while price dislocation between London and 
+New York “diminished” gold futures market making a huge impact on the 
+movement of physical gold writes Atsuko Whitehouse at BullionVault.
  
-Geopolitical uncertainty also increased after China's dictatorship in Beijing 
-released details of the 'national security law' it plans to impose on the 
-formerly 'autonomous' region of Hong Kong.
+Spot gold prices jumped $1987.54 per ounce to hit a new record high in 
+early Asian trade this Monday and then lost the gain as the dollar 
+index – a measure of the US currency's value versus its major 
+peers – advanced for the second session in a row after declining 4.1% 
+for last month.
  
-Dollar prices for gold bullion settled in London jumped to $1758 per ounce in 
-Asian trade overnight, the highest since 18 May.The Dollar itself – as measured
-on the US currency's index of value versus its major peers – meantime retreated
-following four consecutive days of gains."A major part of the move higher in 
-gold over the past two trading days has been US real yields heading increasing
-ly negative," reckons John Reade, chief market strategist at the mining 
-industry's World Gold Council, pointing to the inflation-adjusted rate of 
-interest offered to new buyers of 10-year Treasury bonds.
+Meanwhile, real US Treasury yields hit an all-time low at the start of 
+the week’s trading.Gold went up 10.9% in July, the biggest monthly gain 
+since 2012.“Despite the strength seen in gold through the month of July, 
+Net Managed Money longs on Comex fell slightly over the period, again 
+demonstrating how diminished this trading venue has become,” said John 
+Reade, Chief Market Strategist at the World Gold Council this morning.
 
 ----
 
