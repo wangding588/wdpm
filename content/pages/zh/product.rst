@@ -206,6 +206,20 @@ PAMP貴金屬製造商特色：
    :alt: 公司產品
    :class: img-fluid mx-auto d-block
 
+
+|
+
+.. image:: {static}/images/platinum1.jpg
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
+
+|
+
+.. image:: {static}/images/platinum2.jpg
+   :alt: 公司產品
+   :class: img-fluid mx-auto d-block
+
 .. raw:: html
 
   <span id="twogolddragon"></span>
