@@ -208,6 +208,8 @@ PAMP貴金屬製造商特色：
 
 |
 
+**財富女神 100公克白金**
+
 .. image:: {static}/images/platinum1.jpg
    :alt: 公司產品
    :class: img-fluid mx-auto d-block
