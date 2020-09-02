@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-109年9月1日更新
+109年9月2日更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場1日〕金價觸及8月19日以來最高，但勢將錄得五個月來首次月線下跌
+〔黃金市場2日〕金價觸及8月19日以來最高，但勢將錄得五個月來首次月線下跌
 
 * 白銀勢將連續第五個月上漲
 * 全球股市料連續第五個月上漲
@@ -74,7 +74,7 @@ Reade, Chief Market Strategist at the World Gold Council this morning.
 財經新聞
 ++++++++
 
-〔美元匯市1日〕美元在8月最後一日跌至兩年低位，連續第四個月下跌
+〔美元匯市2日〕美元在8月最後一日跌至兩年低位，連續第四個月下跌
 
 * 美元指數觸及逾兩年低位
 * 美元8月連續第四個月月線下跌
