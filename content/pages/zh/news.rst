@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-109年9月26更新
+109年9月28更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場26日〕金價下跌，疫情擔憂推動投資者購買美元避險
+〔黃金市場28日〕金價下跌，疫情擔憂推動投資者購買美元避險
 
 * 金價本週迄今下跌4.4%
 * 白銀和鉑金料錄得3月20日以來最差週度表現
@@ -81,7 +81,7 @@ Reade, Chief Market Strategist at the World Gold Council this morning.
 財經新聞
 ++++++++
 
-〔美元匯市26日〕美元恢復升勢，錄得4月初以來最強週線走勢
+〔美元匯市28日〕美元恢復升勢，錄得4月初以來最強週線走勢
 
 * 美元指數上漲，日圓兌美元下跌
 * 歐元、澳元和新西蘭元兌美元下跌
