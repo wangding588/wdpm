@@ -65,13 +65,13 @@ PLUGINS = ['i18n_subsites',
            'edit_on_github']
 
 # custom setting for HTML meta info
-META_KEYWORDS = '黃金價格,白銀買賣,高雄黃金買賣,王鼎貴金屬'
+META_KEYWORDS = '黃金價格,白銀買賣,高雄飾金,高雄黃金買賣'
 META_DESCRIPTION = '主要與瑞士煉金廠 合作並委託其他世界大銀行與知名煉金廠Johnson Matthey,Metalor 進口倫敦市場認可的純金金條,包括黃金價格,白銀買賣,高雄黃金買賣等服務'
 
 # mapping: language_code -> settings_overrides_dict
 I18N_SUBSITES = {
   'zh': {
-    'SITENAME': '王鼎貴金屬',
+    'SITENAME': '黃金價格,白銀買賣,高雄黃金買賣-王鼎貴金屬',
     'AUTHOR': '您的姓名',
     'LOCALE': 'zh_TW.UTF-8',
     'META_KEYWORDS': '黃金價格,白銀買賣,高雄黃金買賣,王鼎貴金屬',
