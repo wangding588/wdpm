@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'YOUR NAME'
-SITENAME = u'王鼎貴金屬'
+SITENAME = u'黃金價格,白銀買賣,高雄黃金買賣-王鼎貴金屬'
 # leave SITEURL blank when developing
 SITEURL = ''
 
