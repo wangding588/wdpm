@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-109年11月24更新
+109年11月25更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場24日〕金價觸及四個月低點，因美國數據強勁且疫苗消息提振復甦希望
+〔黃金市場25日〕金價觸及四個月低點，因美國數據強勁且疫苗消息提振復甦希望
 
 * 美國製造業、服務業活動在11月迅速擴張
 * 阿斯利康稱其新冠疫苗的有效性可達90%
