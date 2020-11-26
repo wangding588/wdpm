@@ -132,3 +132,6 @@ JINJA_FILTERS = {
     "hidden_pages_get_page_with_slug_index": hidden_pages_get_page_with_slug_index,
     "gettext": gettext,
 }
+
+from datetime import datetime
+BUILD_TIME = datetime.now()
