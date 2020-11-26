@@ -134,4 +134,5 @@ JINJA_FILTERS = {
 }
 
 from datetime import datetime
-BUILD_TIME = datetime.now()
+import pytz
+BUILD_TIME = datetime.now(pytz.timezone(TIMEZONE))
