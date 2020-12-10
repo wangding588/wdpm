@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-109年12月9更新
+109年12月10更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場9日〕金價觸及兩週最高，投資者關注美國新一輪財政支持計劃進展
+〔黃金市場10日〕金價觸及兩週最高，投資者關注美國新一輪財政支持計劃進展
 
 * 金價觸及11月23日以來最高
 * 美元跌勢暫停，但仍處於多年低位附近
