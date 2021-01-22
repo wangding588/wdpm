@@ -85,7 +85,6 @@ Reade, Chief Market Strategist at the World Gold Council this morning.
 
 財經新聞
 ++++++++
-
 美元連跌三日，受美國數據強於預期和刺激計劃希望拖累
 
 * 美國刺激計劃推動經濟的希望令美元承壓
