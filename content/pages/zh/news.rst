@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-110年9月11日更新
+110年9月13日更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場11日〕美聯儲縮減時間表不確定性拖累金價走低，週線五週來首次下跌
+〔黃金市場13日〕美聯儲縮減時間表不確定性拖累金價走低，週線五週來首次下跌
 
 * 汽車需求降低打擊鉑金和鈀金
 * 美聯儲將於9月21-22日召開會議
