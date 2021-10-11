@@ -3,7 +3,7 @@
 :tags: 財經簡訊
 :summary: 王鼎財經簡訊
 :lang: zh
-:order: 2
+:order: 3
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 

@@ -3,7 +3,7 @@
 :tags: 簡介
 :summary: 公司簡介
 :lang: zh
-:order: 3
+:order: 4
 :source: http://www.wdpm.com.tw/company.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-intro.jpg
 
