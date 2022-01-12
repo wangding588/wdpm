@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-111年1月11日更新
+111年1月12日更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場11日〕美債收益率上升拖累金價走低，關注美國通脹數據
+〔黃金市場12日〕美債收益率上升拖累金價走低，關注美國通脹數據
 
 * 金市人氣是買入並持有
 * 美國10年期公債收益率觸及兩年高位
