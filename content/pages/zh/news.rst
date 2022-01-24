@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-111年1月22日更新
+111年1月24日更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場22日〕金價下跌，但通脹擔憂推動週線連續第二週上漲
+〔黃金市場24日〕金價下跌，但通脹擔憂推動週線連續第二週上漲
 
 * 白銀勢將創下2021年5月來最佳週度表現
 * 鈀金本週勢將躍升逾12%
