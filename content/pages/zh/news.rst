@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-111年3月2日更新
+111年3月3日更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場2日〕鈀金急升至七個月高位，因對俄製裁令供應前景蒙陰
+〔黃金市場3日〕鈀金急升至七個月高位，因對俄製裁令供應前景蒙陰
 
 * 美股下跌，俄烏危機升級
 * 指標美債收益率跌至五週低位
