@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-111年4月12日更新
+111年4月13日更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場12日〕鈀金因俄羅斯供應風險而跳漲5%後持穩，金價觸及近一個月最高
+〔黃金市場13日〕鈀金因俄羅斯供應風險而跳漲5%後持穩，金價觸及近一個月最高
 
 * 關注將於週二發布的美國3月CPI數據
 * 盤中稍早金價觸及近一個月最高
