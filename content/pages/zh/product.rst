@@ -124,13 +124,13 @@
 ++++++++++++++
 
 .. image:: {static}/images/bullion.jpg
-   :alt: 公司產品
+   :alt: 高雄飾金
    :class: img-fluid mx-auto d-block
 
 |
 
 .. image:: {static}/images/bullion2.jpg
-   :alt: 公司產品
+   :alt: 高雄飾金
    :class: img-fluid mx-auto d-block
 
 ----
@@ -142,7 +142,7 @@
 ====
 
 .. image:: {static}/images/silver/r-silver-a.jpg
-   :alt: 公司產品
+   :alt: 白銀買賣
    :class: img-fluid mx-auto d-block
 
 |
