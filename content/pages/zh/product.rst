@@ -151,7 +151,7 @@
 ====
 
 .. image:: {static}/images/silver/r-silver-b.jpg
-   :alt: 公司產品
+   :alt: 白銀買賣
    :class: img-fluid mx-auto d-block
 
 |
@@ -160,7 +160,7 @@
 ======
 
 .. image:: {static}/images/silver/r-silver-c.jpg
-   :alt: 公司產品
+   :alt: 白銀買賣
    :class: img-fluid mx-auto d-block
 
 
