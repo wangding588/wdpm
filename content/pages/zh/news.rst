@@ -85,7 +85,7 @@ MSCI明晟全球股票指數(.MIWD00000PUS)週二創下三個月來最大單日�
 汽油價格進一步下跌，但不足以讓投資者重新考慮美聯儲的激進立場。“PPI 令人驚
 喜，但 PPI 波動性如此之大，這就是它不夠引人注目的原因之一，它是一個嘈雜的
 數據點，只是因為這是 PPI 的本質，”Brian Jacobsen 說，威斯康星州梅諾莫尼福
-爾斯的 Allspring Global Investments 高級投資策略師
+爾斯的 Allspring Global Investments 高級投資策略師。
 
 
          
