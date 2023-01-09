@@ -7,14 +7,14 @@
 :source: http://www.wdpm.com.tw/economic.htm
 :og_image: http://www.wdpm.com.tw/images/carousel/rr-carousel-news.jpg
 
-112年1月7日更新
+112年1月9日更新
 
 ----
 
 黃金新聞
 ++++++++
 
-〔黃金市場7日〕黃金價格跳升至 6 月以來的最高水平
+〔黃金市場9日〕黃金價格跳升至 6 月以來的最高水平
 
 金價週五飆升逾 1% 至七個月高位，因美國經濟數據鞏固了對美聯儲不那麼強硬的預
 期，令金價連續第三週上漲，導緻美國國債收益率和美元下跌上升。截至美國東部時
