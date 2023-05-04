@@ -53,8 +53,7 @@
   <div style="border: 1px solid #000000; width: 210px; height: auto; font-family: Arial; background-color: #FFFFFF;">
   <div style="margin: 0px auto; width: 100%; height: 24px; text-align: center; padding-top: 0px; font-size: 18px; font-weight: bold; background-color: #000000;">
   <a style="color: #FFFFFF; background-color: #000000; text-decoration: none;" href="https://goldprice.org" target="_blank">Gold Price</a></div>
-  <div id="gold-price" data-gold_price="USD-o-1d"></div>
-  <script type="text/javascript" src="https://goldprice.org/js/gold-price.js"></script></div>
+  <div id="gold-price" data-gold_price="USD-o-1d"></div></div>
   <!-- End Gold Price Script - GOLDPRICE.ORG -->
 
 |
@@ -68,8 +67,7 @@
   <div style="border: 1px solid #000000; width: 210px; height: auto; font-family: Arial; background-color: #FFFFFF;">
   <div style="margin: 0px auto; width: 100%; height: 24px; text-align: center; padding-top: 0px; font-size: 18px; font-weight: bold; background-color: #000000;">
   <a style="color: #FFFFFF; background-color: #000000; text-decoration: none;" href="https://silverprice.org" target="_blank">Silver Price</a></div>
-  <div id="silver-price" data-silver_price="USD-o-1d"></div>
-  <script type="text/javascript" src="https://silverprice.org/js/silver-price.js"></script></div>
+  <div id="silver-price" data-silver_price="USD-o-1d"></div></div>
   <!-- End Silver Price Script - SILVERPRICE.ORG -->
 
 |
