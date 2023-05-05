@@ -69,7 +69,7 @@ at Swiss bank UBS' Global Wealth Management division, to Bloomberg this morning.
 
 財經新聞
 ++++++++
-投資者關注疲軟的經濟，股市下跌，美元上漲
+投資者關注疲軟經濟，股市下跌，美元上漲
 
 一項全球股市指標連續第四天下跌，而美元則有所上漲，因歐洲央行週四上調利率，並
 在美國聯邦儲備理事會(美聯儲/FED)也加息一天后暗示需要進一步收緊政策費率。美國
